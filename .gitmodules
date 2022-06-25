@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "visR"]
+	path = visR
+	url = https://github.com/openpharma/visr
+	shallow = true
+	registered = true
