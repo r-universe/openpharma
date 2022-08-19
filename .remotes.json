@@ -1,8 +1,0 @@
-[
-  {
-    "package": "survival",
-    "url": "https://github.com/therneau/survival",
-    "via": ["visR"],
-    "from": "visR"
-  }
-]
