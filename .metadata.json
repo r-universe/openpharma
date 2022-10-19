@@ -1,5 +1,9 @@
 [
   {
+    "package": "mmrm",
+    "oncran": true
+  },
+  {
     "package": "visR",
     "oncran": true
   }

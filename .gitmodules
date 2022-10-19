@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mmrm"]
+	path = mmrm
+	url = https://github.com/openpharma/mmrm
+	shallow = true
+	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visr
