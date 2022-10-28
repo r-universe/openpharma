@@ -8,6 +8,11 @@
 	url = https://github.com/openpharma/mmrm
 	shallow = true
 	registered = true
+[submodule "mtdesign"]
+	path = mtdesign
+	url = https://github.com/openpharma/mtdesign
+	shallow = true
+	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visr

@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "mtdesign",
+    "oncran": true
+  },
+  {
     "package": "visR",
     "oncran": true
   }
