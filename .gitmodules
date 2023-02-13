@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DataFakeR"]
+	path = DataFakeR
+	url = https://github.com/openpharma/datafaker
+	shallow = true
+	registered = true
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm

@@ -1,5 +1,9 @@
 [
   {
+    "package": "DataFakeR",
+    "oncran": true
+  },
+  {
     "package": "mmrm",
     "oncran": true
   },
