@@ -18,6 +18,11 @@
 	url = https://github.com/openpharma/mtdesign
 	shallow = true
 	registered = true
+[submodule "simaerep"]
+	path = simaerep
+	url = https://github.com/openpharma/simaerep
+	shallow = true
+	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visr

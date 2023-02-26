@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "simaerep",
+    "oncran": true
+  },
+  {
     "package": "visR",
     "oncran": true
   }
