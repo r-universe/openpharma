@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "visR"]
-	path = visR
-	url = https://github.com/openpharma/visr
-	shallow = true
-	registered = true
-[submodule "simaerep"]
-	path = simaerep
-	url = https://github.com/openpharma/simaerep
-	shallow = true
-	registered = true
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/openpharma/datafaker
+	shallow = true
+	registered = true
+[submodule "mmrm"]
+	path = mmrm
+	url = https://github.com/openpharma/mmrm
 	shallow = true
 	registered = true
 [submodule "mtdesign"]
@@ -23,8 +18,13 @@
 	url = https://github.com/openpharma/mtdesign
 	shallow = true
 	registered = true
-[submodule "mmrm"]
-	path = mmrm
-	url = https://github.com/openpharma/mmrm
+[submodule "simaerep"]
+	path = simaerep
+	url = https://github.com/openpharma/simaerep
+	shallow = true
+	registered = true
+[submodule "visR"]
+	path = visR
+	url = https://github.com/openpharma/visr
 	shallow = true
 	registered = true

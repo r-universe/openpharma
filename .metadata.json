@@ -1,14 +1,10 @@
 [
   {
-    "package": "visR",
-    "oncran": true
-  },
-  {
-    "package": "simaerep",
-    "oncran": true
-  },
-  {
     "package": "DataFakeR",
+    "oncran": true
+  },
+  {
+    "package": "mmrm",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "mmrm",
+    "package": "simaerep",
+    "oncran": true
+  },
+  {
+    "package": "visR",
     "oncran": true
   }
 ]
