@@ -1,14 +1,6 @@
 [
   {
-    "package": "DataFakeR",
-    "oncran": true
-  },
-  {
-    "package": "mmrm",
-    "oncran": true
-  },
-  {
-    "package": "mtdesign",
+    "package": "visR",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "visR",
+    "package": "DataFakeR",
+    "oncran": true
+  },
+  {
+    "package": "mtdesign",
+    "oncran": true
+  },
+  {
+    "package": "mmrm",
     "oncran": true
   }
 ]
