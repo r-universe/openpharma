@@ -28,3 +28,8 @@
 	url = https://github.com/openpharma/visr
 	shallow = true
 	registered = true
+[submodule "sasr"]
+	path = sasr
+	url = https://github.com/insightsengineering/sasr
+	shallow = true
+	registered = false
