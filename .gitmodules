@@ -5,6 +5,9 @@
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/openpharma/datafaker
+[submodule "brms.mmrm"]
+	path = brms.mmrm
+	url = https://github.com/openpharma/brms.mmrm
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm
