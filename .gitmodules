@@ -17,6 +17,9 @@
 [submodule "roxylint"]
 	path = roxylint
 	url = https://github.com/openpharma/roxylint
+[submodule "roxytypes"]
+	path = roxytypes
+	url = https://github.com/openpharma/roxytypes
 [submodule "savvyr"]
 	path = savvyr
 	url = https://github.com/openpharma/savvyr
