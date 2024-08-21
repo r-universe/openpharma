@@ -32,6 +32,3 @@
 [submodule "simaerep"]
 	path = simaerep
 	url = https://github.com/openpharma/simaerep
-[submodule "visR"]
-	path = visR
-	url = https://github.com/openpharma/visr
