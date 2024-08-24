@@ -5,6 +5,9 @@
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/openpharma/datafaker
+[submodule "DoseFinding"]
+	path = DoseFinding
+	url = https://github.com/openpharma/dosefinding
 [submodule "beeca"]
 	path = beeca
 	url = https://github.com/openpharma/beeca
