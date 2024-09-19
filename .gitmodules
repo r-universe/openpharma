@@ -17,6 +17,9 @@
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/openpharma/crmpack
+[submodule "elaborator"]
+	path = elaborator
+	url = https://github.com/openpharma/elaborator
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm
