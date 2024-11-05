@@ -20,6 +20,9 @@
 [submodule "elaborator"]
 	path = elaborator
 	url = https://github.com/openpharma/elaborator
+[submodule "graphicalMCP"]
+	path = graphicalMCP
+	url = https://github.com/openpharma/graphicalmcp
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm
