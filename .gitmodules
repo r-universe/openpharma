@@ -8,6 +8,9 @@
 [submodule "DoseFinding"]
 	path = DoseFinding
 	url = https://github.com/openpharma/dosefinding
+[submodule "RobinCar2"]
+	path = RobinCar2
+	url = https://github.com/openpharma/robincar2
 [submodule "beeca"]
 	path = beeca
 	url = https://github.com/openpharma/beeca
