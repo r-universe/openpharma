@@ -11,6 +11,9 @@
 [submodule "beeca"]
 	path = beeca
 	url = https://github.com/openpharma/beeca
+[submodule "bfboin"]
+	path = bfboin
+	url = https://github.com/openpharma/bfboin
 [submodule "brms.mmrm"]
 	path = brms.mmrm
 	url = https://github.com/openpharma/brms.mmrm
