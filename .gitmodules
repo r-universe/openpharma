@@ -32,6 +32,9 @@
 [submodule "mtdesign"]
 	path = mtdesign
 	url = https://github.com/openpharma/mtdesign
+[submodule "rbmi"]
+	path = rbmi
+	url = https://github.com/openpharma/rbmi
 [submodule "roxylint"]
 	path = roxylint
 	url = https://github.com/openpharma/roxylint
