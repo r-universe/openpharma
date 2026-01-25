@@ -35,6 +35,9 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/openpharma/rbmi
+[submodule "rbmiUtils"]
+	path = rbmiUtils
+	url = https://github.com/openpharma/rbmiutils
 [submodule "roxylint"]
 	path = roxylint
 	url = https://github.com/openpharma/roxylint
