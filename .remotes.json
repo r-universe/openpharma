@@ -1,8 +1,0 @@
-[
-  {
-    "package": "decider",
-    "url": "https://github.com/Boehringer-Ingelheim/decider",
-    "via": ["crmPack"],
-    "from": "crmPack"
-  }
-]

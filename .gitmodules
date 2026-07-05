@@ -20,10 +20,6 @@
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/openpharma/crmpack
-[submodule "decider"]
-	path = decider
-	url = https://github.com/Boehringer-Ingelheim/decider
-	registered = false
 [submodule "elaborator"]
 	path = elaborator
 	url = https://github.com/openpharma/elaborator
