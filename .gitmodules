@@ -56,3 +56,6 @@
 [submodule "simaerep"]
 	path = simaerep
 	url = https://github.com/openpharma/simaerep
+[submodule "tipse"]
+	path = tipse
+	url = https://github.com/openpharma/tipse
