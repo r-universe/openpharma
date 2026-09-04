@@ -17,6 +17,9 @@
 [submodule "brms.mmrm"]
 	path = brms.mmrm
 	url = https://github.com/openpharma/brms.mmrm
+[submodule "bunsen"]
+	path = bunsen
+	url = https://github.com/openpharma/bunsen
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/openpharma/crmpack
