@@ -1,19 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/openpharma/openpharma.r-universe.dev
 	branch = HEAD
 [submodule "DoseFinding"]
 	path = DoseFinding
-	url = https://github.com/openpharma/dosefinding
+	url = https://github.com/openpharma/DoseFinding
 [submodule "RobinCar2"]
 	path = RobinCar2
-	url = https://github.com/openpharma/robincar2
+	url = https://github.com/openpharma/RobinCar2
 [submodule "beeca"]
 	path = beeca
 	url = https://github.com/openpharma/beeca
 [submodule "bfboin"]
 	path = bfboin
 	url = https://github.com/openpharma/bfboin
+[submodule "bonsaiforest2"]
+	path = bonsaiforest2
+	url = https://github.com/openpharma/bonsaiforest2
 [submodule "brms.mmrm"]
 	path = brms.mmrm
 	url = https://github.com/openpharma/brms.mmrm
@@ -22,7 +25,7 @@
 	url = https://github.com/openpharma/bunsen
 [submodule "crmPack"]
 	path = crmPack
-	url = https://github.com/openpharma/crmpack
+	url = https://github.com/openpharma/crmPack
 [submodule "derrick"]
 	path = derrick
 	url = https://github.com/openpharma/derrick
@@ -31,7 +34,7 @@
 	url = https://github.com/openpharma/elaborator
 [submodule "graphicalMCP"]
 	path = graphicalMCP
-	url = https://github.com/openpharma/graphicalmcp
+	url = https://github.com/openpharma/graphicalMCP
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm
@@ -46,7 +49,7 @@
 	url = https://github.com/openpharma/rbmi
 [submodule "rbmiUtils"]
 	path = rbmiUtils
-	url = https://github.com/openpharma/rbmiutils
+	url = https://github.com/openpharma/rbmiUtils
 [submodule "roxylint"]
 	path = roxylint
 	url = https://github.com/openpharma/roxylint
